@@ -3,9 +3,9 @@
 .. image:: https://github.com/lsst/rtn-070/workflows/CI/badge.svg
    :target: https://github.com/lsst/rtn-070/actions/
 
-##############
+######################
 RTN-070 Hiring Recipes
-##############
+######################
 
 Quick reference guide for Rubin Hiring Managers, with how-to's for each step of the recruitment process that bring in best practices in inclusive hiring. 
 
