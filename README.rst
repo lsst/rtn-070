@@ -16,10 +16,10 @@ Status
 ======
 This technote is currently in its "beta" state, accepting feedback from some "beta tester" current Rubin hiring managers, and also the members of the 2024 Joint Operations Review (JOR2024) panel.
 
-Version: 0.2
-Date: 2024-04-05
-Comment: Distributed for beta testing and JOR review 
-Owner: Bob Blum
+- Version: 0.2
+- Date: 2024-04-05
+- Comment: Distributed for beta testing and JOR review  
+- Owner: Bob Blum
 
 
 Links
