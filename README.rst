@@ -32,6 +32,6 @@ Editing this Technote
 =====================
 
 You can make modifications in "suggesting mode" to the Google doc linked above.
-Then, you should update the status line in the README and submit a pull request.
+Then, you should update the status line in the README to summarize your proposed changes (and potentially also modify the .tex file, if the title or author list is involved), and submit a pull request.
 When your suggestions have been accepted, merge the PR. 
 The published technote at https://rtn-070.lsst.io will be automatically rebuilt when your pull request is merged into the ``main`` branch on `GitHub <https://github.com/lsst/rtn-070>`_.
